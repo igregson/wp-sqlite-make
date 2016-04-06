@@ -5,11 +5,12 @@ A make file that creates a Wordpress install that uses an SQLite database
 
 Use in collaboration with PHP's server for a dead-simple Wordpress development setup. 
 
-Example: 
+### Usage:
 
-```
-php -S localhost:3000
-```
+1. Clone repo
+2. `make`
+3. start server: `php -S localhost:3000`
+4. visit `localhost:3000`
 
 ### Notes:
 
