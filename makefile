@@ -8,7 +8,7 @@ all:
 
 	rm -rf latest.zip
 
-	curl -o sqlite-plugin.zip http://downloads.wordpress.org/plugin/sqlite-integration.1.7.zip
+	curl -o sqlite-plugin.zip http://downloads.wordpress.org/plugin/sqlite-integration.1.8.zip
 
 	unzip sqlite-plugin.zip -d wp-content/plugins/
 
