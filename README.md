@@ -12,3 +12,7 @@ Use in collaboration with PHP's server for a dead-simple Wordpress development s
 2. `make`
 3. start server: `php -S localhost:3000`
 4. visit `localhost:3000`
+
+### Note: 
+
+- Requires `wget`
