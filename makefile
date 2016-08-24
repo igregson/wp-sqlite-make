@@ -10,7 +10,7 @@ all:
 	
 	wget https://downloads.wordpress.org/plugin/sqlite-integration.latest-stable.zip
 
-	unzip sqlite-integration.1.8.1.zip -d wp-content/plugins/
+	unzip sqlite-integration.latest-stable.zip -d wp-content/plugins/
 
 	rm sqlite-integration.latest-stable.zip
 
